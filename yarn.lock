@@ -3290,14 +3290,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clipanion@npm:4.0.0-rc.2, clipanion@npm:^4.0.0-rc.2":
-  version: 4.0.0-rc.2
-  resolution: "clipanion@npm:4.0.0-rc.2"
+"clipanion@npm:4.0.0-rc.3, clipanion@npm:^4.0.0-rc.2":
+  version: 4.0.0-rc.3
+  resolution: "clipanion@npm:4.0.0-rc.3"
   dependencies:
     typanion: "npm:^3.8.0"
   peerDependencies:
     typanion: "*"
-  checksum: 10c0/b0a9e113879862823225e5395c93acd73e013f599578c25ee3bd87a558fd4c0385a58dfa0ae42bf981e324cecde5ea4792501efbe2459324ba5292c1cd1171a9
+  checksum: 10c0/5171fd04539b39b5483bd097d5f828da165fa47b4718378cb0bc3c2f70dfa11736f01727cfa4b9566fc8eabad03473e62ae98470c4c8d15c618ee1294e07169f
   languageName: node
   linkType: hard
 
@@ -9124,7 +9124,7 @@ __metadata:
     "@yarnpkg/fslib": "npm:3.0.1"
     "@yarnpkg/shell": "npm:4.0.0"
     check-package-dependencies: "npm:7.1.1"
-    clipanion: "npm:4.0.0-rc.2"
+    clipanion: "npm:4.0.0-rc.3"
     concat-stream: "npm:2.0.0"
     conventional-changelog-conventionalcommits: "npm:7.0.2"
     conventional-changelog-core: "npm:7.0.0"
